@@ -1,0 +1,8 @@
+*~
+target
+.idea
+
+# Editor File Ignore
+*.sublime-project
+*.sublime-workspace
+.idea/
